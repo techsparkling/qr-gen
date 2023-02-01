@@ -18,7 +18,7 @@ export default function QRGenerator(props){
     bgColor="none"
     fgColor="white"
     style={{ height: "auto", maxWidth: "100%", width: "100%" }}
-    value={'http://192.168.0.100:3000/generated/'+props.value}
+    value={'https://qr-gen-beta.vercel.app/'+props.value}
     viewBox={`0 0 256 256`}
     />
 </div>
