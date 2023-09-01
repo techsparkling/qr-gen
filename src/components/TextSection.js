@@ -4,7 +4,7 @@ export default function TextSection() {
   return (
     <Wrapper>
       <Subtitle>Advanced Qr generator</Subtitle>
-      <Title>Make any kind of QR under 5 min</Title>
+      <Title>Make any kind of QR under 2 min</Title>
       <Description>
       We allow you to build qr codes for any kind of task.
       </Description>
